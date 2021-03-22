@@ -1,8 +1,10 @@
 ## Hi, I'm **Sofiko** Chkadua from Saint-Petersburg, Russia and I'm a beginner web-developer.
 ### There are a few my pet and work projects.
 
-### 📧   [chkadua.sofiya@gmail.com](chkadua.sofiya@gmail.com)
-### 🔗   [t.me/sofiachkadua](t.me/sofiachkadua)
+###   📧   [chkadua.sofiya@gmail.com](chkadua.sofiya@gmail.com)
+###   🔗   [t.me/sofiachkadua](t.me/sofiachkadua)
 
 
 ![html](https://img.shields.io/badge/-html5-red?style=for-the-badge&logo=html5)
+![html](https://img.shields.io/badge/-css3-blue?style=for-the-badge&logo=css3)
+![html](https://img.shields.io/badge/-javascript-yellow?style=for-the-badge&logo=javascript)
