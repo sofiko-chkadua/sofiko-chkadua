@@ -5,6 +5,6 @@
 ###   🔗   [t.me/sofiachkadua](t.me/sofiachkadua)
 
 
-![html](https://img.shields.io/badge/-html5-red?style=for-the-badge&logo=html5)
+### ![html](https://img.shields.io/badge/-html5-red?style=for-the-badge&logo=html5)
 ![html](https://img.shields.io/badge/-css3-blue?style=for-the-badge&logo=css3)
-![html](https://img.shields.io/badge/-javascript-yellow?style=for-the-badge&logo=javascript)
+ ![html](https://img.shields.io/badge/-javascript-yellow?style=for-the-badge&logo=javascript)
