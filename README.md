@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hello everyone! I'm **Sofiko** Chkadua from Saint-Petersburg, Russia and I'm a junior web-developer 👋
 
 <!--
 **sofiko-chkadua/sofiko-chkadua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
