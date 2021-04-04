@@ -1,4 +1,3 @@
-## Hi, I'm **Sofiko** Chkadua from Saint-Petersburg, Russia and I'm a beginner web-developer.
 ### There are a few my pet and work projects.
 
 ###   📧   [chkadua.sofiya@gmail.com](chkadua.sofiya@gmail.com)
